@@ -19,7 +19,9 @@
 ## 🚀 Installation
 
 Clone the repository to your local machine ```git clone`https://github.com/mihaicc30/test.git```
+
 Navigate to the project directory
+
 Install the project dependencies ```npm install```
 
 ## 🚀 How to run
